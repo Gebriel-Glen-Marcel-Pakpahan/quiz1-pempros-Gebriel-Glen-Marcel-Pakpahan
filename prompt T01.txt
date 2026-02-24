@@ -39,4 +39,5 @@ AP
 GG
 [Porsi Butet]
 END
-Output Format ouput : tampilkan struk pada terminal dengan format berikut. buatlah sebuah program bahasa C untuk menghitung jumlah harga pesanan yang di pesan dengan kupon yang di dapat, lalu dengan jumlah porsi yang di pesan, setiap ucok membeli 2, maka butet membeli 1, sesuai dengan berat badan mereka. 
+Output Format ouput : tampilkan struk pada terminal dengan format berikut. buatlah sebuah program bahasa C untuk menghitung jumlah harga pesanan yang di pesan dengan kupon yang di dapat, lalu dengan jumlah porsi yang di pesan, setiap ucok membeli 2, maka butet membeli 1, sesuai dengan berat badan mereka.
+. 

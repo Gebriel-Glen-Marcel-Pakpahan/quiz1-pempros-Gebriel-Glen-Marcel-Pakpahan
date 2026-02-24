@@ -51,6 +51,7 @@ void clearBuffer() {
 
 
 
+
 void tambahPesanan() {
     if (jumlahPesanan >= MAX_ORDER) {
         printf("Kapasitas penyimpanan penuh!\n");

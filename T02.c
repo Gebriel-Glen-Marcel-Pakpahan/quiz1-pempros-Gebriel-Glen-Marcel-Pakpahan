@@ -12,6 +12,7 @@ int main() {
     int kode;
     scanf("%d", &kode);
 
+    
     int total = 0;
 
     if (kode == 1) {

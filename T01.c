@@ -8,6 +8,7 @@ struct Menu {
     int harga;
 };
 
+
 // Definisi struktur untuk menyimpan pesanan sementara
 struct Pesanan {
     char namaMenu[30];

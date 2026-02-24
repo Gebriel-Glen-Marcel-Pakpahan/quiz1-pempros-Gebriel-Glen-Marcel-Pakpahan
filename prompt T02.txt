@@ -13,4 +13,4 @@ Deret nilai (n1, n2, …, n).
 Kode kelompok siswa
 Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
 
-cukup menggunakan array. lalu buat jumlah total, dan buat kode kelompoknya
+cukup menggunakan array. lalu buat jumlah total, dan buat kode kelompoknya.
